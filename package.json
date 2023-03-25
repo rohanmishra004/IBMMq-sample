@@ -1,0 +1,16 @@
+{
+  "name": "ibm_mq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start":"node server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ibmmq": "^1.0.5"
+  }
+}

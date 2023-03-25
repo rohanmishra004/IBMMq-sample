@@ -1,0 +1,5 @@
+IBM mq is a messaging middleware software that enables applications and systems to communicate with each other by exchanging messages asynchronously 
+
+IBM MQ messages are sent to and received from queues. Queues are storage locations that hold messages until they are delivered to their intended target.
+
+Here we have a sample app with IBM MQ
